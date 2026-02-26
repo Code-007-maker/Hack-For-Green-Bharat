@@ -1,6 +1,5 @@
 # GreenVision AI — Real-Time Environmental Intelligence
 
-**First Prize Submission for "Hack For Green Bharat" National Hackathon**
 
 ## 🌍 Overview
 GreenVision AI is a production-grade environmental monitoring platform that transforms semantic segmentation outputs from offroad sensors into **real-time environmental intelligence**. It detects desertification, vegetation loss, and ecological risks as they happen.
